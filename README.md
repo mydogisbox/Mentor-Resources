@@ -36,6 +36,8 @@ Resources to support the F# foundation mentoring program
 
 * [Rosalind] (http://rosalind.info/problems/list-view/)
 * [Project Euler] (https://projecteuler.net/)
+* [Pragmatic Programmer Code Katas](http://codekata.pragprog.com/)
+* [Coding Dojo Code Katas](http://codingdojo.org/)
 
 ## Other
 
