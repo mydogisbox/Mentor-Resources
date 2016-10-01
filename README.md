@@ -1,7 +1,7 @@
 # Mentor-Resources
 Resources to support the F# foundation mentoring program
 
-## Language Basics (List of topics and list of resources)
+## Language Basics (Organization option 1 - List of topics and list of resources)
 
 #### Topics
 
@@ -16,7 +16,7 @@ Resources to support the F# foundation mentoring program
 * [F# Koans](https://github.com/ChrisMarinos/FSharpKoans)
 * [try F#](http://www.tryfsharp.org/Learn/getting-started)
 
-## Language Basics Topics (List of Topics with links to resources)
+## Language Basics Topics (Organization Option 2 - List of Topics with links to resources)
 * Basic Syntax ([F# For Fun And Profit](http://fsharpforfunandprofit.com/series/expressions-and-syntax.html), [F# Koans](https://github.com/ChrisMarinos/FSharpKoans), [try F#](http://www.tryfsharp.org/Learn/getting-started))
 * Discriminated Unions ([F# For Fun And Profit](http://fsharpforfunandprofit.com/series/expressions-and-syntax.html), [F# Koans](https://github.com/ChrisMarinos/FSharpKoans), [try F#](http://www.tryfsharp.org/Learn/getting-started#data-structures))
 * Collections
