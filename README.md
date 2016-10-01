@@ -1,4 +1,4 @@
-# Mentor-Resources
+# Mentor Resources
 Resources to support the F# foundation mentoring program
 
 ## Language Basics (Organization option 1 - List of topics and list of resources)
