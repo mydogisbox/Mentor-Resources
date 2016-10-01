@@ -3,13 +3,20 @@ Resources to support the F# foundation mentoring program
 
 # Topics
 
-## Language Basics
+## Language Basics (List of topics and list of resources)
+
+* Basic Syntax
+* Discriminated Unions
+* Collections
+* Etc
+
 * [F# For Fun And Profit](http://fsharpforfunandprofit.com/series/expressions-and-syntax.html)
 * [F# Koans](https://github.com/ChrisMarinos/FSharpKoans)
 * [try F#](http://www.tryfsharp.org/Learn/getting-started)
 
+## Language Basics Topics (List of Topics with links to resources)
 * Basic Syntax ([F# For Fun And Profit](http://fsharpforfunandprofit.com/series/expressions-and-syntax.html), [F# Koans](https://github.com/ChrisMarinos/FSharpKoans), [try F#](http://www.tryfsharp.org/Learn/getting-started))
-* Discriminated Unions
+* Discriminated Unions ([F# For Fun And Profit](http://fsharpforfunandprofit.com/series/expressions-and-syntax.html), [F# Koans](https://github.com/ChrisMarinos/FSharpKoans), [try F#](http://www.tryfsharp.org/Learn/getting-started#data-structures))
 * Collections
 * Pattern Matching
 * Active Patterns
