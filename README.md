@@ -32,6 +32,11 @@ Resources to support the F# foundation mentoring program
 * Computation Expressions
 * Type Providers
 
+## Useful problems for pair programming
+
+* [Rosalind] (http://rosalind.info/problems/list-view/)
+* [Project Euler] (https://projecteuler.net/)
+
 ## Other
 
 * Testing (FSCheck, Unquote etc)
