@@ -41,6 +41,6 @@ Resources to support the F# foundation mentoring program
 
 ## Other
 
-* Testing (FSCheck, Unquote etc)
-* Web Apps
-* Data Science
+* Testing ([FSCheck](https://fscheck.github.io/FsCheck/QuickStart.html), [Unquote](https://github.com/SwensenSoftware/unquote/wiki/UserGuide), etc)
+* Web Apps ([Freya](https://docs.freya.io/en/latest/), [Suave](https://suave.io/index.html), [Websharper](http://websharper.com/))
+* [Data Science](http://fsharp.org/guides/data-science/index.html)
