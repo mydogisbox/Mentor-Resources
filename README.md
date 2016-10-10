@@ -38,6 +38,9 @@ Resources to support the F# foundation mentoring program
 * [Project Euler] (https://projecteuler.net/)
 * [Pragmatic Programmer Code Katas](http://codekata.pragprog.com/)
 * [Coding Dojo Code Katas](http://codingdojo.org/)
+* [Exercism.io](http://exercism.io/languages/fsharp)
+* [Codewars](http://www.codewars.com/)
+* [Hacker Rank](http://www.hackerrank.com)
 
 ## Other
 
