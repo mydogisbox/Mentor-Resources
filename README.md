@@ -39,7 +39,7 @@ Resources to support the F# foundation mentoring program
 * [Codewars](http://www.codewars.com/)
 * [Hacker Rank](http://www.hackerrank.com)
 
-## Other
+## Other Topics
 
 * Testing ([FSCheck](https://fscheck.github.io/FsCheck/QuickStart.html), [Unquote](https://github.com/SwensenSoftware/unquote/wiki/UserGuide), etc)
 * Web Apps ([Freya](https://docs.freya.io/en/latest/), [Suave](https://suave.io/index.html), [Websharper](http://websharper.com/))
