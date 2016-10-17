@@ -1,3 +1,5 @@
+
+
 # Mentor Resources
 Resources to support the F# foundation mentoring program
 
@@ -22,6 +24,10 @@ Resources to support the F# foundation mentoring program
 * Function Composition
 * Computation Expressions
 * Type Providers
+
+#### Resources
+
+* [F# For Fun And Profit](http://fsharpforfunandprofit.com/series/expressions-and-syntax.html)
 
 ## Useful problems for pair programming
 
